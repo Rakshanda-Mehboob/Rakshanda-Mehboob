@@ -20,4 +20,4 @@ Hi 👋, I'm Rakhshanda Mehboob
  📫 Connect with Me
 LinkedIn: www.linkedin.com/in/rakhshanda-mehboob-hussain-614097378
 
-Email: raskhandamehboob123@gmail.com
+Email: rakshandamehboob123@gmail.com
