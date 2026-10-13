@@ -1,4 +1,4 @@
-Hi 👋, I'm Rakhshanda Mehboob
+Hi, I'm Rakhshanda Mehboob
 
 🎓 Software Engineering Student
 💻 Full Stack Developer
@@ -18,6 +18,4 @@ Hi 👋, I'm Rakhshanda Mehboob
 - AI-powered Final Year Project
 
  📫 Connect with Me
-LinkedIn: www.linkedin.com/in/rakhshanda-mehboob-hussain-614097378
-
 Email: rakshandamehboob123@gmail.com
